@@ -1,4 +1,5 @@
 # Note Zipper
+
 <table>
 <tr>
 <td>
@@ -10,10 +11,12 @@
 # ![Note Zipper](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
 
 ## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+
 ![MERN 1](https://user-images.githubusercontent.com/51760520/124705210-ea67ab00-df12-11eb-88cd-e9060c2942b9.png)
 
 ## Demo
-Here is a working live demo :  https://notezipper.herokuapp.com/
+
+Here is a working live demo : https://notezipper.herokuapp.com/
 
 ## Site
 
@@ -22,6 +25,7 @@ Here is a working live demo :  https://notezipper.herokuapp.com/
 ![](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
 
 ### Login Form
+
 You can register a new account or login with an existing one.
 
 ![](https://github.com/Piyush55dude/notezipper/blob/master/images/login.png)
@@ -42,17 +46,17 @@ You can register a new account or login with an existing one.
 
 ![](https://github.com/Piyush55dude/notezipper/blob/master/images/edit.png)
 
-## Built with 
+## Built with
 
 - [React JS](https://reactjs.org/)
-- [Node JS](https://nodejs.org/) 
+- [Node JS](https://nodejs.org/)
 - [Express JS](https://expressjs.com/)
 - [Mongo DB](https://www.mongodb.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
 ## Team
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+[![Rishikesh Sharma](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
-
+MIT © [Rishikesh Sharma ](https://github.com/piyush-eon)
+"# note-factory" 
